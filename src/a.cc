@@ -1,7 +1,6 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 int main()
 {
-    cout << "asd" << endl;
+    printf("hello Broc\n");
     return 0;
 }
