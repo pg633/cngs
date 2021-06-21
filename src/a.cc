@@ -1,6 +1,6 @@
-#include <stdio.h>
-int main()
+#include "pg633/cngs/src/a.h"
+
+int add(int x, int y)
 {
-    printf("hello Broc\n");
-    return 0;
+    return x + y;
 }
