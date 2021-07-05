@@ -1,6 +1,0 @@
-#edit-mode: -*- python -*-
-#coding:utf-8
-
-STATIC_LIBRARY('a', Sources("src/a.cc"))
-
-APPLICATION('hello', Sources("hello.cc"))
